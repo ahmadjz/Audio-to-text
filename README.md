@@ -56,7 +56,7 @@ Check if `tkinter` is already installed with your Python distribution (it's usua
 python whisper_transcription.py
 ```
 
-- Select the model you want to use, here the differences between models [Available models and languages](Select an audio file when prompted.Select an audio file when prompted.)
+- Select the model you want to use, here the differences between models [Available models and languages](https://github.com/openai/whisper#available-models-and-languages)
 
 - Select an audio file when prompted.
 
